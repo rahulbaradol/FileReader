@@ -21,6 +21,10 @@ public class About_Ct implements Initializable {
     @FXML
     private JFXButton whats_New;
 
+    public static void main(String[] args) {
+
+    }
+
     @Override
     public void initialize(URL location, ResourceBundle resources) {
 
